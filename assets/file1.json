@@ -1,0 +1,8 @@
+{
+    "coord":{"lon":44,"lat":33},
+    "weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],
+    "base":"stations",
+    "main":{"temp":309.1,"feels_like":306.33,"temp_min":309.1,"temp_max":309.1,"pressure":1002,"humidity":10,"sea_level":1002,"grnd_level":997},
+    "visibility":10000,
+    "wind":{"speed":2.34,"deg":323,"gust":2.3},
+    "clouds":{"all":0},"dt":1662968132,"sys":{"type":1,"id":7597,"country":"IQ","sunrise":1662950731,"sunset":1662995735},"timezone":10800,"id":99237,"name":"Iraq","cod":200}
